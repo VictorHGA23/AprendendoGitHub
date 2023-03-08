@@ -1,1 +1,2 @@
-Fizemos uma modificação!
+Fizemos uma modificação! E mais uma!
+bugfix do desenvolvedor 1.
